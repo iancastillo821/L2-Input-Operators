@@ -17,6 +17,6 @@ noun = input("Please give me a noun: ")
 verb = input("Please give me a verb: ")
 adjective = input("Please give me a adjective: ")
 noun2 = input("Please give me a noun: ")
-verb2 = input("Please give me a verb: ")
+adverb = input("Please give me a adverb: ")
 
-print(noun + "was walking to a store to " + verb + "a snack" +  )
+print(noun + " was walking to a store to " + verb + " a " + adjective + " snack. " + noun2 + " steals his snack and "  + adverb + " ran away." )
